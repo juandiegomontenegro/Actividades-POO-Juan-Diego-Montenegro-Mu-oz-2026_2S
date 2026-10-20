@@ -1,4 +1,4 @@
-<img width="395" height="506" alt="images-Photoroom" src="https://github.com/user-attachments/assets/1f9a67ef-1b15-4a77-b599-d4b3c35b25d7" />
+[actividad-3_ejersicio-3.1.py](https://github.com/user-attachments/files/33738072/actividad-3_ejersicio-3.1.py)<img width="395" height="506" alt="images-Photoroom" src="https://github.com/user-attachments/assets/1f9a67ef-1b15-4a77-b599-d4b3c35b25d7" />
 
 #  UNIVERSIDAD NACIONAL DE COLOMBIA
 # PROGRAMACIÓN ORIENTADA A OBJETOS 2026-2S
@@ -26,3 +26,11 @@
 [actividad-2_ejercicio-2.4.py](https://github.com/user-attachments/files/33228971/actividad-2_ejercicio-2.4.py)
 
 [actividad-2_ejercicio-2.5.py](https://github.com/user-attachments/files/33228972/actividad-2_ejercicio-2.5.py)
+
+#  Actividad: Actividad 3 - individual (10%)
+[actividad-3_ejersicio-3.1.py](https://github.com/user-attachments/files/33738066/actividad-3_ejersicio-3.1.py)
+
+[actividad-3_ejercicio-3.2.py](https://github.com/user-attachments/files/33738091/actividad-3_ejercicio-3.2.py)
+
+
+
