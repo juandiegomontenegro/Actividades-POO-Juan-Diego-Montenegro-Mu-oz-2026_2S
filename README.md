@@ -1,4 +1,4 @@
-[actividad-3_ejersicio-3.1.py](https://github.com/user-attachments/files/33738072/actividad-3_ejersicio-3.1.py)<img width="395" height="506" alt="images-Photoroom" src="https://github.com/user-attachments/assets/1f9a67ef-1b15-4a77-b599-d4b3c35b25d7" />
+<img width="395" height="506" alt="images-Photoroom" src="https://github.com/user-attachments/assets/1f9a67ef-1b15-4a77-b599-d4b3c35b25d7" />
 
 #  UNIVERSIDAD NACIONAL DE COLOMBIA
 # PROGRAMACIÓN ORIENTADA A OBJETOS 2026-2S
